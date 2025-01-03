@@ -4,8 +4,10 @@
 - 🌱 I’m currently learning web backend development
 
 <div>
-  <a href="https://www.linkedin.com/in/maria-elisa-lima-pedro-ab5178257/"></a>
-   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> 
+  <a href="https://www.linkedin.com/in/maria-elisa-lima-pedro-ab5178257/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> 
+  </a>
+   
 </div>
 
 <div>
