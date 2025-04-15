@@ -17,5 +17,5 @@
 
 #### Technology Stack
 <div>
-  [<img align="left" alt="Java" width="30px" src="[https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F95017%2Ftypescript-icon&psig=AOvVaw3Wi6j_LlnoAVZloyHFoaJZ&ust=1744771047912000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPjn1OaA2YwDFQAAAAAdAAAAABAE)" />]
+  [<img align="left" alt="Java" width="30px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F95017%2Ftypescript-icon&psig=AOvVaw3Wi6j_LlnoAVZloyHFoaJZ&ust=1744771047912000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPjn1OaA2YwDFQAAAAAdAAAAABAR" />]
 </div>
