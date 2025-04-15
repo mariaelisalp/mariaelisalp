@@ -29,7 +29,7 @@
   <img align="left" alt="Laravel" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" />
   <img align="left" alt="Tailwind CSS" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" />
   <img align="left" alt="Bootstrap" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" />
-  <img align="left" alt="Git" width="40px" src="https://github.com/vorillaz/devicons/blob/master/!SVG/git.svg" />
+  <img align="left" alt="Git" width="40px" src="https://www.svgrepo.com/show/303548/git-icon-logo.svg" />
   <img align="left" alt="VS Code" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" />
 </div>
 
