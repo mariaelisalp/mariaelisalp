@@ -19,16 +19,17 @@
 
 ### Technology Stack
 
-<div style="display: flex; gap: 10px;">
+<div style="display: flex; gap: 7px;">
   <img align="left" alt="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align="left" alt="Angular" width="40px" src="https://angular.dev/assets/images/logos/angular/angular.svg" />
+  <img align="left" alt="Angular" width="40px" src="https://i.pinimg.com/736x/c3/27/19/c327197fee8696bcadd92b3f32f6c218.jpg" />
   <img align="left" alt="NestJS" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" />
   <img align="left" alt="Node.js" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" />
   <img align="left" alt="PostgreSQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img align="left" alt="Docker" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img align="left" alt="Laravel" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" />
   <img align="left" alt="Tailwind CSS" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" />
-   <img align="left" alt="Bootstrap" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" />
-  <img align="left" alt="Github" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Octicons-mark-github.svg" />
+  <img align="left" alt="Bootstrap" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" />
+  <img align="left" alt="Github" width="40px" src="https://i.pinimg.com/736x/d2/2e/e3/d22ee3727a7216019c3848df6eafa024.jpg" />
+  <img align="left" alt="VS Code" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" />
 </div>
 
