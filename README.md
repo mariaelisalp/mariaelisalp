@@ -19,7 +19,7 @@
 
 <div style="display: flex; gap: 10px;">
   <img align="left" alt="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align="left" alt="Angular" width="40px" src="https://drive.google.com/drive/folders/1gD5-kamfribnib6TH4-aqVZxjYaDZlCg" />
+  <img align="left" alt="Angular" width="40px" src="https://images.seeklogo.com/logo-png/50/1/angular-icon-logo-png_seeklogo-507324.png" />
   <img align="left" alt="NestJS" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" />
   <img align="left" alt="Node.js" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" />
   <img align="left" alt="PostgreSQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
