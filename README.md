@@ -19,7 +19,7 @@
 
 <div style="display: flex; gap: 10px;">
   <img align="left" alt="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align="left" alt="Angular" width="40px" src="https://images.seeklogo.com/logo-png/50/1/angular-icon-logo-png_seeklogo-507324.png" />
+  <img align="left" alt="Angular" width="40px" src="https://angular.dev/assets/images/logos/angular/angular.svg" />
   <img align="left" alt="NestJS" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" />
   <img align="left" alt="Node.js" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" />
   <img align="left" alt="PostgreSQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
@@ -27,6 +27,6 @@
   <img align="left" alt="Laravel" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" />
   <img align="left" alt="Tailwind CSS" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" />
    <img align="left" alt="Bootstrap" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" />
-  <img align="left" alt="Github" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
+  <img align="left" alt="Github" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Octicons-mark-github.svg" />
 </div>
 
