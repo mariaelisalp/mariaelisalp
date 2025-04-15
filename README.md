@@ -13,7 +13,9 @@
   <a href="https://github.com/mariaelisalp">
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaelisalp&layout=compact&langs_count=7&theme=dracula"/>
   </a>
-</div><br>
+
+  <img width=100px src="https://i.pinimg.com/originals/f9/ba/23/f9ba232d6b18c80b3a95c1ec8dc1c796.gif"/>
+</div>
 
 ### Technology Stack
 
