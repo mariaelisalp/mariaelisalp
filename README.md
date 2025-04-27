@@ -1,7 +1,9 @@
 ## Hello World! 👋
 
-- 🖥️ I’m a Computer Science student  
+- 🖥️ I’m a Computer Science student from Brazil
 - 🌱 I’m currently learning web backend development
+- 🗂️: Current project: Faalo application 💬
+- 🔧: Currently using: NestJS, Angular, PostreSQL, Docker, TaildwindCSS
 
 <div>
   <a href="https://www.linkedin.com/in/maria-elisa-lima-pedro-ab5178257/">
