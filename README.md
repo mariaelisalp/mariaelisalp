@@ -1,7 +1,7 @@
 ## Hello World! 👋
 
 - 🖥️ I’m a Computer Science student from Brazil
-- 🌱 I’m currently learning web backend development
+- 🌱 I’m currently learning backend development
 - 🗂️: Current project: Faalo application 💬
 
 <div>
