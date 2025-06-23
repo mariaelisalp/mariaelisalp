@@ -31,6 +31,6 @@
   <img align="left" alt="Tailwind CSS" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" />
   <img align="left" alt="Bootstrap" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" />
   <img align="left" alt="Git" width="40px" src="https://www.svgrepo.com/show/303548/git-icon-logo.svg" />
-  <img align="left" alt="VS Code" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" />
+  <img align="left" alt="VS Code" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/vscode/vscode-original.svg" />
 </div>
 
