@@ -15,7 +15,7 @@
 </div>
 
 
-<div style="display: flex; align-items: center; gap: 20px;">
+<div style="display: flex; align-items: center; gap: 20px; padding-top: 10px">
   <a>
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaelisalp&layout=compact&langs_count=7&theme=dracula"/>
   </a>
