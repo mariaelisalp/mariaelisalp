@@ -4,15 +4,16 @@
 - 🌱 I’m currently learning backend development
 - 🗂️: Current project: Faalo application 💬
 
-<div>
-  <a href="https://www.linkedin.com/in/maria-elisa-lima-pedro-ab5178257/">
+<div style="display: flex; gap: 10px; align-items: center;">
+  <a href="https://www.linkedin.com/in/maria-elisa-lima-pedro-ab5178257/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> 
   </a>
-  <br>
-  <a href="https://teu-link-do-portfolio-aqui.com">
-    <img src="https://img.shields.io/badge/Portfolio-%239333ea?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio Badge"/>
+
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%239333ea?style=for-the-badge&logo=about-dot-me&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </div>
+
 
 <div style="display: flex; align-items: center; gap: 20px;">
   <a>
