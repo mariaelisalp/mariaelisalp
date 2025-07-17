@@ -5,17 +5,17 @@
 - 🗂️: Current project: Faalo application 💬
 
 <div style="display: flex; gap: 10px; align-items: center;">
-  <a href="https://www.linkedin.com/in/maria-elisa-lima-pedro-ab5178257/" target="_blank">
+  <a href="https://www.linkedin.com/in/maria-elisa-lima-pedro-ab5178257/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> 
   </a>
 
-  <a href="" target="_blank">
+  <a href="">
     <img src="https://img.shields.io/badge/Portfolio-%239333ea?style=for-the-badge&logo=about-dot-me&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </div>
 
 
-<div style="display: flex; align-items: center; gap: 20px; padding-top: 40px">
+<div style="display: flex; align-items: center; gap: 20px; padding-top: 80px">
   <a>
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaelisalp&layout=compact&langs_count=7&theme=dracula"/>
   </a>
