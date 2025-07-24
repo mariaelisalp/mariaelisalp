@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> 
   </a>
 
-  <a href="">
+  <a href="https://mariaelisalp.github.io/portfolio">
     <img src="https://img.shields.io/badge/Portfolio-%239333ea?style=for-the-badge&logo=about-dot-me&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </div>
